@@ -200,10 +200,10 @@ def ____banner____():
         os.system("clear")
     print(f"""{W}
     +---------------------------------+
-    | OWNER   {Y}: {W}TEAM-GS              |
-    | TOOLS  {Y} : {W}RANDOM               |
-    | W.NUMB  {Y}: {W}80000XXXXX           |
-    | VERSION{Y} : {W}V{Y}-{orang}0.6{W}               |
+    | OWNER   {Y}: {W}TEAM-GS               |
+    | TOOLS  {Y} : {W}RANDOM                |
+    | W.NUMB  {Y}: {W}80000XXXXX            |
+    | VERSION{Y} : {W}V{Y}-{orang}0.6{W}                 |
     +---------------------------------+""")
 ##-------------[ DEF RANDOM CLONE]-------------##
 def ___random_main___():
@@ -416,4 +416,5 @@ if __name__ == "__main__":
 else:
     os.system('clear')
     ___random_main___()
+
 
