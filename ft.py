@@ -339,12 +339,12 @@ def _TEAM_RANDOM_M1(ids):
             '__aaid': '0',
             '__user': '0',
             '__a': '1',
-            '__req': '9',
+            '__req': '12',
             '__hs': '20475.BP:wbloks_caa_pkg.2.0...0',
             'dpr': '3',
             '__ccg': 'EXCELLENT',
             '__rev': str(random.randint(1000000000,1999999999)),
-            '__s': '87x6o9:w21sge:07w7ew',
+            '__s': 'eg2z80:fexsp8:3311a1',
             '__hsi': str(int(time.time() * 10000000)),
             '__dyn': '0wzpawlE72fDg9ppo5S12wAxu13wqobE6u7E39x60lW4o0wW1gCwjE0AC09Mx60se2G0pS0ny0oi0zE5W0Y81soG0xo2ewbS1LwpEcE1kU1bo8Xw8S0QU3yw',
             'fb_dtsg': 'NAfs3-uP-KQey6VxpCASjgSu2JtfvS0sFLL3mdKhzwm4IZCmlAHy_xw:0:0',
@@ -416,5 +416,6 @@ if __name__ == "__main__":
 else:
     os.system('clear')
     ___random_main___()
+
 
 
